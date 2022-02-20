@@ -1,0 +1,9 @@
+Arduino uno + cable : 1
+10k resistor  : 2
+Potentiometer 10k pot : 1
+Microphone(mic) : 1
+Some led's and resistor for making led bar 
+IRFZ44 N-Channel MOSFET : 1
+USB cable : 1
+
+Best of luck !!
